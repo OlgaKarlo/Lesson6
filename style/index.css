@@ -1,7 +1,7 @@
 @import "common.css";
 
 .container {
-    margin: 0 250px;
+    margin: 0 auto;
 }
 h1{
     margin: 79px 0 28px;
@@ -48,11 +48,23 @@ h1{
     margin: 28px auto;
     background:gray;
 }
-.card {
+.wrapp {
+    text-align: center;
+}
+.card1 {
     display: inline-block;
     text-align: center;
     padding: 0 10px;
-    margin-left: 10px;
+}
+.card2 {
+    display: inline-block;
+    text-align: center;
+    padding: 0 10px;
+}
+.card3 {
+    display: inline-block;
+    text-align: center;
+    padding: 0 10px;
 }
 
 .icons {
